@@ -1,4 +1,4 @@
-Kimurai as SEO
+## Kimurai as SEO
 
 If your toolset works with Capybara, Nokogiri and (2.0 Apparition) already, it's worth taking a look at those first.
 
