@@ -1,3 +1,40 @@
+Kimurai as SEO
+
+If your toolset works with Capybara, Nokogiri and (2.0 Apparition) already, it's worth taking a look at those first.
+
+*SEO uses what is conventionally called a 'crawler' or 'spider' to illustrate traversal through webpages under a single domain.  This README, sticks with _spider_.  This is important because it has been known to spill over into the base code.*
+
+
+```ruby
+
+require 'kimurai'
+
+# Spider code
+# .... weak spider version
+
+```
+
+```ruby
+# full spider version
+
+```
+
+Instead of printing willy nilly, log from within your program with
+```ruby
+  def parse
+    # ...
+    
+    logger.info "> Printing..."
+    
+  end
+  
+```
+
+
+
+---
+
+
 # Kimurai
 
 > UPD. I will soon have a time to work on issues for current 1.4 version and also plan to release new 2.0 version with https://github.com/twalpole/apparition engine.
